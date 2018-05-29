@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("I NEED YOUR NUMBER, GIMME DAT");
+        System.out.println("enter the number: ");
         Scanner sc = new Scanner(System.in);
         int number1 = sc.nextInt();
         int number2 = sc.nextInt();
